@@ -12,7 +12,7 @@ correct position, letters in wrong position)
 """
 
 # read in word list
-with open('word_list.txt') as f:
+with open('wordle.txt') as f:
     words = set(f.read().split())
 
 # filter for 5-letter words
