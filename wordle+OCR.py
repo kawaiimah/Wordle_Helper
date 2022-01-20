@@ -20,7 +20,7 @@ import numpy as np
 import sys
 
 # read in word list
-with open('word_list.txt') as f:
+with open('wordle.txt') as f:
     words = set(f.read().split())
 
 # filter for 5-letter words
