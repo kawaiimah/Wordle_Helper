@@ -1,5 +1,5 @@
 # Wordle_Helper
-Coded a little helper app to suggest words to try in [Wordle](https://www.powerlanguage.co.uk/wordle/) puzzles.
+Coded a little helper app to suggest words to try in Wordle puzzles. A javascript version is available [here](https://kawaiimah.github.io/Wordle_Helper/).
 
 ## Coding Concepts
 - Reading in a word list in text file format. Update: Turns out the list of possible puzzle words is embedded in the page source, provided an updated wordle.txt file of the 2000+ possible words.
